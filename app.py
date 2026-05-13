@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from datetime import datetime
-from streamlit-calendar import calendar
+from streamlit_calendar import calendar
 
 # Configurações de Estética "Casal"
 st.set_page_config(page_title="Sintonia a Dois", page_icon="❤️", layout="wide")
