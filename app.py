@@ -2,7 +2,6 @@ import streamlit as st
 import pandas as pd
 from datetime import datetime
 from streamlit_calendar import calendar
-from st_gsheets_connection import GSheetsConnection
 
 # Configuração da Página
 st.set_page_config(page_title="Sintonia a Dois", page_icon="❤️", layout="wide")
